@@ -69,7 +69,7 @@ To enhance development experience, install the following VS Code extensions:
 
 ### Prerequisites
 
-- **Bun**: Version 1.2.13 or higher OR
+- **Bun**: Version 1.2.4 or higher OR
 - **Node.js**: Version 20.18.0 or higher
 - **Docker**: For containerized deployment (optional but recommended)
 
@@ -77,8 +77,8 @@ To enhance development experience, install the following VS Code extensions:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/siddharthamaity/nextjs-15-starter-shadcn.git
-    cd nextjs-15-starter-shadcn
+    git clone https://github.com/rochiyat/nextjs-15-starter-with-shadcn.git
+    cd nextjs-15-starter-with-shadcn
     ```
     To get the code without example change branch to without-example
     ```bash
@@ -138,7 +138,7 @@ docker run -p 3000:3000 nextjs-starter-shadcn
 
 [![Open in CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/SiddharthaMaity/nextjs-15-starter-shadcn)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/SiddharthaMaity/nextjs-15-starter-shadcn)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rochiyat/nextjs-15-starter-with-shadcn.git)
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/SiddharthaMaity/nextjs-15-starter-shadcn)
 
@@ -146,7 +146,7 @@ docker run -p 3000:3000 nextjs-starter-shadcn
 
 [![Open in Glitch](https://img.shields.io/badge/Open%20in-Glitch-blue?logo=glitch)](https://glitch.com/edit/#!/import/github/SiddharthaMaity/nextjs-15-starter-shadcn)
 
-[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/SiddharthaMaity/nextjs-15-starter-shadcn)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/rochiyat/nextjs-15-starter-with-shadcn.git)
 
 ### License
 
